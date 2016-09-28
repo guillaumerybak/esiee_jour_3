@@ -1,0 +1,13 @@
+NOM: esiee_strtowordtab;
+FONCTIONS_AUTORISEES: malloc; free;
+FICHIER_A_RENDDRE: esiee_strtowordtab.c
+NOM_DE_LA_FONCTION: esiee_strtowordtab; esiee_freewordtab
+AIDE: man malloc; man free;
+SUJET: Creer deux fonctions:
+
+-- la premiere, strtowordtab prend en parametre une chaine de caractere et une liste de delimiteurs.
+   cette fonction renverra un tableau de chaines de caracteres contenant dans chaque case du tableau
+   une portion de la chaine de caractere entre deux delimiteurs. La derniere case de ce tableau devra contenir NULL;
+-- la deuxieme, freewordtab prend en parametre le retour de strtowordtab et libere la memoire contenue dans ce tableau
+   si besoin
+

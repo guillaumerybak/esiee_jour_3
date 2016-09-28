@@ -7,6 +7,6 @@ struct Person
     char *prenom;
     char *nom;
     char *profession;
-}
+};
 
 #endif
