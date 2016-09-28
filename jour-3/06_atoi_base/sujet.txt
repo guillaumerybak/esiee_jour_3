@@ -1,0 +1,12 @@
+NOM: esiee_atoi_base;
+FONCTIONS_AUTORISEES: aucune;
+FICHIER_A_RENDDRE: esiee_atoi_base.c
+NOM_DE_LA_FONCTION: esiee_atoi_base
+AIDE: man atoi
+SUJET: Coder une fonction esiee_atoi_base qui prend en parametres 2 chaines de caracteres: la premiere contient le nombre
+a interpreter (ex: "14337"), le second contiendra la base du nombre. Un appel a cette fonction avec une base decimale
+en parametre est equivalent a un appel a la fonction esiee_atoi avec en parametre la 1er chaine de caractere
+
+ex: esiee_atoi_base("A", "0123456789ABCDEF") devra retourner un int qui contient la valeur 10
+    esiee_atoi_base("1337", "0123456789") devra retourner un int qui contient la valeur 1337
+

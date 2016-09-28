@@ -1,0 +1,7 @@
+NOM: esiee_memset;
+FONCTIONS_AUTORISEES: ;
+FICHIER_A_RENDDRE: esiee_memset.c
+NOM_DE_LA_FONCTION: esiee_memset
+AIDE: man memset
+SUJET: Recoder la fonction system memset.
+

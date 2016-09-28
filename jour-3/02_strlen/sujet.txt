@@ -1,0 +1,7 @@
+NOM: strlen;
+FONCTIONS_AUTORISEES: aucune;
+FICHIER_A_RENDDRE: esiee_strlen.c
+NOM_DE_LA_FONCTION: esiee_strlen
+AIDE: man strlen
+SUJET: Recoder la fonction system strelen.
+

@@ -1,0 +1,7 @@
+NOM: swap_params;
+FONCTIONS_AUTORISEES: aucune;
+FICHIER_A_RENDDRE: esiee_swap_params.c
+NOM_DE_LA_FONCTION: esiee_swap_params
+SUJET: Créer une fonction qui prend en paramètre 2 pointeurs sur des entiers signés. Cette dernière échangera les valeurs
+des paramètres de manière à ce que ces chahngements soient répercutés en dehors de la fonction esiee_swap_params.
+

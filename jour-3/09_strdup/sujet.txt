@@ -1,0 +1,7 @@
+NOM: esiee_strdup;
+FONCTIONS_AUTORISEES: malloc;
+FICHIER_A_RENDDRE: esiee_strdup.c
+NOM_DE_LA_FONCTION: esiee_strdup
+AIDE: man strdup
+SUJET: Recoder la fonction system strdup.
+

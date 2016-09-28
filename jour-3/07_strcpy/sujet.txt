@@ -1,0 +1,7 @@
+NOM: esiee_strcpy;
+FONCTIONS_AUTORISEES: aucune;
+FICHIER_A_RENDDRE: esiee_strcpy.c
+NOM_DE_LA_FONCTION: esiee_strcpy
+AIDE: man strcpy
+SUJET: Recoder la fonction system strcpy.
+

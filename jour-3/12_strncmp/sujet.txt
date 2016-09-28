@@ -1,0 +1,7 @@
+NOM: esiee_strncmp;
+FONCTIONS_AUTORISEES: ;
+FICHIER_A_RENDDRE: esiee_strncmp.c
+NOM_DE_LA_FONCTION: esiee_strncmp
+AIDE: man strncmp
+SUJET: Recoder la fonction system strncmp.
+

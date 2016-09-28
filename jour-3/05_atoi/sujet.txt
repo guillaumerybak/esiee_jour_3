@@ -1,0 +1,7 @@
+NOM: esiee_atoi;
+FONCTIONS_AUTORISEES: aucune;
+FICHIER_A_RENDDRE: esiee_atoi.c
+NOM_DE_LA_FONCTION: esiee_atoi
+AIDE: man atoi
+SUJET: Recoder la fonction system atoi.
+

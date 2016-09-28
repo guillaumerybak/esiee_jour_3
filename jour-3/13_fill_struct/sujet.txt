@@ -1,0 +1,10 @@
+NOM: esiee_fill_struct;
+FONCTIONS_AUTORISEES: ;
+FICHIER_A_RENDDRE: esiee_fill_struct.c
+NOM_DE_LA_FONCTION: esiee_fill_struct
+SUJET: Coder une fonction qui prend en parametre un pointeur sur une structure de type "struct Person" et qui
+met son age a 42, lui donne le prenom "Popeye", le nom "Locate", la profession a "Popeye en chef".
+La definition de cette structure se trouve dans le fichier "person.h". Ce fichier sera compile avec votre code source,
+vous avez juste besoin de l'include dans votre fichier .c avec 
+#include "person.h"
+

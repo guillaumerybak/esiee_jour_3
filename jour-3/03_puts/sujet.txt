@@ -1,0 +1,7 @@
+NOM: esiee_puts;
+FONCTIONS_AUTORISEES: esiee_putchar;
+FICHIER_A_RENDDRE: esiee_puts.c
+NOM_DE_LA_FONCTION: esiee_puts
+AIDE: man puts
+SUJET: Recoder la fonction system puts.
+

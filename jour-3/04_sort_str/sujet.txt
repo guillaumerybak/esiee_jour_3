@@ -1,0 +1,12 @@
+NOM: sort_str;
+FONCTIONS_AUTORISEES: aucune;
+FICHIER_A_RENDDRE: esiee_sort_str.c
+NOM_DE_LA_FONCTION: esiee_sort_str
+SUJET: Créer une fonction qui prend en paramètre une chaine de caractere et qui va trier tous les caracteres de
+la chaine de caractere par ordre ascii. Vous devez modifier cette chaine de caractere de maniere a ce que vos
+modifications soient repercutes en dehors de la fonction esiee_sort_str.
+
+ATTENTION, la chaine de caractere que nous vous enverrons sera accessible en lecture et ecriture pour vous. Lors de vos
+tests faites bien attention de faire la meme chose sous peine que votre systeme arrete l'execution de votre programme
+avec l'erreur "erreur de segmentation" ou "segfault" ou "sigsegv"
+
