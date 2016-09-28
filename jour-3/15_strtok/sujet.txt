@@ -2,6 +2,6 @@ NOM: esiee_strtok;
 FONCTIONS_AUTORISEES: ;
 FICHIER_A_RENDDRE: esiee_strtok.c
 NOM_DE_LA_FONCTION: esiee_strtok
-AIDE: man strtok
+AIDE: man strtok; mot cle "static" (cf google) du C;
 SUJET: Recoder la fonction system strtok.
 
